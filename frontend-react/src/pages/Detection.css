@@ -1,0 +1,56 @@
+.detect-container{
+color:white;
+padding:20px;
+}
+
+.detect-grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:30px;
+}
+
+.upload-box{
+border:2px dashed #334155;
+padding:60px;
+text-align:center;
+border-radius:10px;
+margin-bottom:20px;
+}
+
+.sensor-box{
+background:#1e293b;
+padding:20px;
+border-radius:10px;
+margin-bottom:20px;
+display:grid;
+gap:10px;
+}
+
+.sensor-box input{
+padding:10px;
+background:#0f172a;
+border:1px solid #334155;
+color:white;
+border-radius:6px;
+}
+
+.analyze-btn{
+width:100%;
+padding:14px;
+background:#f97316;
+border:none;
+border-radius:8px;
+color:white;
+font-weight:bold;
+cursor:pointer;
+}
+
+.result-box{
+background:#1e293b;
+border-radius:10px;
+padding:30px;
+display:flex;
+justify-content:center;
+align-items:center;
+color:#9ca3af;
+}

@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Flask
+backend/instance/
+*.db
+
+# Dataset / uploads
+dataset/
+uploads/
+
+# Mac
+.DS_Store
+
+# React / Node
+node_modules/
+dist/
+build/
+.vite/
