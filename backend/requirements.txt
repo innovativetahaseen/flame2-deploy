@@ -10,3 +10,4 @@ flask-sqlalchemy
 flask_mail
 Flask
 gunicorn
+Flask-Bcrypt
