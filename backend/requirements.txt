@@ -6,3 +6,5 @@ torch
 torchvision
 python-dotenv
 flask-jwt-extended
+flask-sqlalchemy
+flask_mail
